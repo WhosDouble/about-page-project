@@ -3,7 +3,7 @@
 <ul>
   <li>💻websote like design</li>
   <li>⚠responsive web-design</li>
-  <li></li>
+  <li>🧩interactive elements</li>
 </ul>
 <h2>what i may add</h2>
 <ul>
