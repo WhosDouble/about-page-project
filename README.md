@@ -1,7 +1,7 @@
 <h1>about this project</h1>
 <hr>
 <ul>
-  <li>💻websote like design</li>
+  <li>💻website like design</li>
   <li>⚠responsive web-design</li>
   <li>🧩interactive elements</li>
 </ul>
